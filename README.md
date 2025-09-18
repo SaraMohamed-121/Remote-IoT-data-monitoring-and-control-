@@ -23,4 +23,3 @@ This Arduino-based project monitors environmental conditions and allows remote c
 - I2C LCD Display
 - LEDs
 
-#
